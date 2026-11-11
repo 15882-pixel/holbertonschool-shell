@@ -9,3 +9,4 @@
 8-cwdstate : ls -la in lscwdcontent
 9-duplicatelastline : Duplicate last line
 10-nomorejs : Delete all .js files
+11-directories : Count all the directories and sub

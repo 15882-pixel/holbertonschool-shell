@@ -20,3 +20,4 @@
 19-AZ : replace Ac by Ze
 20-hiago : Remov all c and C
 21-reverse : reverse input
+22-usersanshomes : Display users and their home directories

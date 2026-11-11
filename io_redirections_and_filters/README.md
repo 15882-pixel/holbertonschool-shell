@@ -16,3 +16,4 @@
 15-countthatword : count lines contain bin
 16-whatsnext : Display lines contain root and 3 lines after
 17-hidethisword : Display lines do not contain bin 
+18-letteronly : Display all lines starting with a letter

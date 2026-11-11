@@ -5,3 +5,4 @@
 4-globalvariables : Print environement variables
 5-localvariables : Loca variable, env and function
 6-createlocalvariable: create new local variable best 
+7-createglobalvariable : create new global variable best 

@@ -9,3 +9,4 @@
 8-trueknowledge : Resslt addition 128 + environement variable
 9-divideandrule : Result of power / divide
 10-loveexponentbreath : Result of breath exponent love
+11-binarytodecimal : binary to decimal

@@ -10,3 +10,4 @@
 9-divideandrule : Result of power / divide
 10-loveexponentbreath : Result of breath exponent love
 11-binarytodecimal : binary to decimal
+12-combination : all combinations of 2 letters

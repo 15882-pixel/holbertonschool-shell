@@ -18,3 +18,4 @@
 17-hidethisword : Display lines do not contain bin 
 18-letteronly : Display all lines starting with a letter
 19-AZ : replace Ac by Ze
+20-hiago : Remov all c and C

@@ -7,3 +7,4 @@
 6-thirdline : Display the third line of iacta
 7-file : Create a file best school
 8-cwdstate : ls -la in lscwdcontent
+9-duplicatelastline : Duplicate last line

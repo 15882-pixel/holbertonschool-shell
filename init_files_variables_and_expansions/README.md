@@ -12,3 +12,4 @@
 11-binarytodecimal : binary to decimal
 12-combination : all combinations of 2 letters
 13-13-printfloat : print number with 2 decimals
+14-decimal : convert to hexa

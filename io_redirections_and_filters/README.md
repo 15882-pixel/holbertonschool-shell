@@ -11,3 +11,4 @@
 10-nomorejs : Delete all .js files
 11-directories : Count all the directories and sub
 12-newestfiles : Displays the 10 newest files in the current dir
+13-unique : list of words that appear exactly once

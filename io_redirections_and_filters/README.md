@@ -10,3 +10,4 @@
 9-duplicatelastline : Duplicate last line
 10-nomorejs : Delete all .js files
 11-directories : Count all the directories and sub
+12-newestfiles : Displays the 10 newest files in the current dir
